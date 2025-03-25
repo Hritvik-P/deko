@@ -1,3 +1,3 @@
 # deko
 
-myName= hritvik
+myName= hritvik minj
